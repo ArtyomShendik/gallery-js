@@ -1,3 +1,3 @@
 # Gallery-js
 
-[demo link]()
+[demo link](https://artyomshendik.github.io/gallery-js/)
